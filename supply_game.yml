@@ -1,0 +1,12 @@
+name: supply_game
+channels:
+  - defaults
+  - conda-forge
+  - pypi
+dependencies:
+  - tensorflow=2.8.2
+  - gym=0.21.0
+  - neo4j-python-driver=4.4.0
+  - networkx=2.8.4
+  - diagrams=0.21.0
+prefix: <your_path_to_dir_with_envs>
