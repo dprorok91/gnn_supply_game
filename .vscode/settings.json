@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/home/dominik/anaconda3/envs/supply_game",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.autoComplete.extraPaths": [
+    ]
+}
